@@ -3,6 +3,7 @@ module 1.18
 go 1.18
 
 require (
+	github.com/beego/beego/v2 v2.0.0 // indirect
 	github.com/cilium/ebpf v0.8.1 // indirect
 	github.com/cosiner/argv v0.1.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
@@ -12,6 +13,7 @@ require (
 	github.com/google/go-dap v0.6.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/kisielk/errcheck v1.6.0 // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.3 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
